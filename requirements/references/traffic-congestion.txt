@@ -1,0 +1,55 @@
+Time is one of the most important thing in this globalized world
+Even a millisecond is essential in our dynamic day-to-day life.
+Within a blink of eyes, there can be a drastic change in life.
+
+Thus in recent years, traffic congestion prediction has led to a growing research area, 
+especially of machine learning of Artificial Intelligence(AI).
+With the introduction of big data by stationary sensors or probe vehicle data and 
+the development of new AI models in the last few decades, this research are has expanded
+extensively.
+Traffic congestion, especially short-term traffic congestion prediction is made by 
+evaluating different traffic parameters.
+Most of the researches focus on historical data in forecasting traffic congestion.
+However, a few articles made real-time traffic congestion prediction.
+This paper systematically summarises the existing research conducted by applying the various
+methodologies of AI, notably different machine learning models.
+The paper accumulates the models under respective branches of AI, and the strength and weakness of the 
+models are summarised.
+
+
+
+Introduction
+In this current era of big data, AI is one of the most important branch of Computer Science and Technology.
+AI was born 50 years ago and came a long way, making encouraging process, especially in machine learning,
+data mining, computer vision, expert systems, natural language processing, robotics, and related applications.
+
+probabilistic models, deep learning, artificial neural network systems, game theory.
+
+
+Recently, .....has been the leading research area in transportation engineering, esp in traffic congestion prediction.
+
+Traffic congestion has a direct and indirect impact on a country's economy and its dweller's health.
+
+According to Ali et al. [2], traffic congestion causes Pak Rs. 1 million every day in terms of opportunity level as well.
+Time loss, especially during peak hours, mental stress, and the added pollution to the global warming are also some imp factors
+caused due to traffic congestion.
+
+
+Ensuring economic growth and the road user's comfort are the two requirements for the development of a country,
+which is impossible without smooth traffic flow. With the development in the transportation sector by collecting traffic information, authorrities 
+ are putting more attention on traffic congestion monitoring. 
+Traffic congestion prediction provides the authorities with the required time to plan in the alllocation of resources to make 
+the journey smooth for travellers.
+Traffic congestion prediction problem discusssed in this paper can be defined as an estimation of parameters related to traffic congestion into the short-term 
+future, e.g. 15 minutes to a few hours by applying different AI methodologies by using collected traffic data.
+There are usually five parameters to evaluate, including traffic volume, traffic density, occupancy, traffic congestion index, and travel time 
+while monitoring and predicting traffic congestions.
+Depending on the nature of the collected data, a variety of AI approaches are applied to evaluate the congestion parameters.
+This article systematically discusses the models and their advantage and disadvantages.
+The primary motivation of this review is to gather the articles focusing solely on traffic congestion prediction models.
+The keywords used in the search process included "traffic congestion prediction" OR "traffic congestion estimation"
+
+A general layout of the prediction approaches is provided in Section 2. The data collection sources and congestion forecasting models
+are explained in Section 3-6 and they provide the overall discussion and concluding remarks.
+
+

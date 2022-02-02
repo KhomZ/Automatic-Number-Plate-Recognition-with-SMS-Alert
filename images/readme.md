@@ -10,5 +10,6 @@
 [[Click me!]](https://khomz.github.io/)
 
 ### Traffic Congestion
-![Traffic Congestion](images/traffic-congestion/Traffic-Jam2.jpg)
-[Image Source:](https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2020/07/Traffic-Jam2.jpg)
+![Traffic Congestion](traffic-congestion/Traffic-Jam2.jpg)
+
+[Image SOurce](https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2020/07/Traffic-Jam2.jpg)

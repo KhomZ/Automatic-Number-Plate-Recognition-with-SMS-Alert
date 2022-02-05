@@ -1,1 +1,53 @@
 @Team Kyzen
+
+Background
+Gridlock on road intersection due to unintelligent routing
+
+
+* Everyone prefers the shortest distance route
+* No. of vehicles exponentially increasing
+* Capacity of roads --- CONSTANT!
+* Increasing travel times
+* Under-utilization of a city's road network.
+
+Use multi-class fleets instead?
+
+# Break a customer trip into 3 classes:
+> first mile:  :
+               : }}}}  Uses cycles, scooters, walking on pedestrian paths
+> Last mile:   :
+
+> Middle Mile: Covers ~90% of the trips using fast-speed cars or public transports.
+
+Formulating the problem
+
+- Route customer trips in a congestion-aware manner using a multi-class fleet of vehicles
+- Provides optimal transit points for each trip.
+- Create a social model.----------Wardrop User Equilibrium X(not this)        Wardrop System Equilibrium \/(yes this)
+
+
+GIS(Geographic Information System)
+It's a computer system for capturing, storing, checking, and displayijng data related to positions on Earth's surface.
+
+Python GIS Libraries
+1. OSMNx: 
+    > Retrieve, model, analyze, and visualize OpenStreetMap street networks and other spatial data.
+
+2. GeoPandas:
+    > Extends the datatypes used by pandas to allow spatial operations on geometric types.
+
+Edge Dataframe
+
+-- | u | v | key | osmid | oneway | name | highway | maxspeed | length | travel_time | Location
+
+
+3. NetworkX:
+    > Create, manipulate, and study the structure, dynamics, and functions of complex networks.
+
+
+4. Rtree:
+    > Provides advanced spatial indexing features like nearest neighbor search, intersection search
+
+
+What are we going to do???????
+

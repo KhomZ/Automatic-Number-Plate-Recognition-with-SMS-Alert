@@ -1,5 +1,10 @@
 # Real-Time-Machine-Learning-Approach-on-Traffic-Congestion-Prediction-System-in-Internet-of-Vehicles
+
 Real Time Machine Learning Approach on Traffic Congestion Prediction System in Internet of Vehicles
+
+next topic
+# Dynamic traffic rule violation monitoring system using automatic number plate recognition with SMS feedback
+Dynamic traffic rule violation monitoring system using automatic number plate recognition with SMS feedback
 
 
 

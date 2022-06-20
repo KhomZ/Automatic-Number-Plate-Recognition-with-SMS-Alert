@@ -11,13 +11,13 @@ Automatic Nepali Number Plate Recognition with Sms Reporting System
 
 
 
-# <strike>  Real-Time-Machine-Learning-Approach-on-Traffic-Congestion-Prediction-System-in-Internet-of-Vehicles </strike>
+<!-- # <strike>  Real-Time-Machine-Learning-Approach-on-Traffic-Congestion-Prediction-System-in-Internet-of-Vehicles </strike>
 
 Real Time Machine Learning Approach on Traffic Congestion Prediction System in Internet of Vehicles
 
 next topic
 # <strike>  Dynamic traffic rule violation monitoring system using automatic number plate recognition with SMS feedback </strike>
-Dynamic traffic rule violation monitoring system using automatic number plate recognition with SMS feedback
+Dynamic traffic rule violation monitoring system using automatic number plate recognition with SMS feedback -->
 
 
 
@@ -41,7 +41,7 @@ involves extracting license plates from vehicles and labeling them for their bas
 identifiers.
 
 
-<strike> Time is one of the most important thing in this globalized world
+<!-- <strike> Time is one of the most important thing in this globalized world
 Even a millisecond is essential in our dynamic day-to-day life.
 Within a blink of eyes, there can be a drastic change in life.
 
@@ -58,7 +58,7 @@ This paper systematically summarises the existing research conducted by applying
 methodologies of AI, notably different machine learning models.
 The paper accumulates the models under respective branches of AI, and the strength and weakness of the 
 models are summarised.
-</strike>
+</strike> -->
 
 
 ### Problem Statement

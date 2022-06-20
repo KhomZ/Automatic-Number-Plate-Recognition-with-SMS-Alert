@@ -190,6 +190,11 @@ Today, the biggest asset that we ever can imagine is time. Time is the thing tha
 ### Mindmap of our Project (*-*)
 ![Project Map](Contract/Finding%20Datasets.png)
 
+
+### How are we approaching to do our project?????
+![approach](workflow/pitching-ideas/Automatic-nepali-num-plate-recog-sys.png)
+
+
 ### Committment
 ![Project Map](Contract/Team%20Kyzen%20Contract%20Paper.png)
 

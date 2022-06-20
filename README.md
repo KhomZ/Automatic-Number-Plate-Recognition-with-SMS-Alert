@@ -188,8 +188,8 @@ Today, the biggest asset that we ever can imagine is time. Time is the thing tha
 
 ### <strike>Roadmap of our Project </strike>
 ### Mindmap of our Project (*-*)
-![Project Map](Contract\Finding Datasets.png)
+![Project Map](Contract/Finding%20Datasets.png)
 
 ### Committment
-![Project Map](Contract\Team Kyzen Contract Paper.png)
+![Project Map](Contract/Team%20Kyzen%20Contract%20Paper.png)
 

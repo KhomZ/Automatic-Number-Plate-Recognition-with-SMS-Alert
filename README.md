@@ -22,13 +22,13 @@ Dynamic traffic rule violation monitoring system using automatic number plate re
 
 
 
-### Team Kyzen
+<!-- ### Team Kyzen
 * [Khom Raj Thapa Magar](https://khomz.github.io/)
 * [Keshav Raj Poudel](https://github.com/Keshav-46)
 
 
 
-[[Click me!]](https://khomz.github.io/)
+[[Click me!]](https://khomz.github.io/) -->
 
 ### Abstract
 

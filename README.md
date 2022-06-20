@@ -186,3 +186,10 @@ Today, the biggest asset that we ever can imagine is time. Time is the thing tha
 * OpenCV
 * tkinter
 
+### <strike>Roadmap of our Project </strike>
+### Mindmap of our Project (*-*)
+![Project Map](Contract\Finding Datasets.png)
+
+### Committment
+![Project Map](Contract\Team Kyzen Contract Paper.png)
+
